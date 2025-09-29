@@ -5,5 +5,5 @@ static class Marsvin {
     private String race;
     private int foder;
 
-    public Marsvin(String name,
+    public Marsvin(String name,String race,
 }
